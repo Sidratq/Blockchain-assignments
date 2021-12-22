@@ -1,0 +1,31 @@
+{
+  "name": "blockchain-assignments",
+  "version": "1.0.0",
+  "description": "[![N|Solid](https://eadn-wc04-4642508.nxedge.io/cdn/wp-content/themes/troontechnologies/assets/img/inner-logo.svg)](https://troontechnologies.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidratq/Blockchain-assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sidratq/Blockchain-assignments/issues"
+  },
+  "homepage": "https://github.com/Sidratq/Blockchain-assignments#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.8.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1"
+  }
+}
